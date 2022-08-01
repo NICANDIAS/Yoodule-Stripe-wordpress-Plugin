@@ -12,6 +12,14 @@ function Yoodule_Stripe_menu(){
 }
  
 function Stripe_api(){
-    echo "<h1>Hello World!</h1>";
+?>
+    <h1>Yoodule Stripe api credentials</h1>
+    <h2>Enter Credentials</h2>
+    <!-- Form to handle the upload - The enctype value here is very important -->
+    <form  action="" method="post" enctype="multipart/form-data">
+        Api key:  <input type="text" name="api" /><br />
+        <?php submit_button('Submit') ?>
+    </form>
+<?php
 }
 ?>
