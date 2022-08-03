@@ -7,13 +7,15 @@ a. From admin dashboard: setup api keys by selecting the yoodule - stripe option
 b. Rendering on front end using shortcode , use the [yoodule_stripe] shortcode on any page of choice
 
 Features:
-Shortcode support
-Private key setup
-Responsive table
+
+1.  Shortcode support
+2.  Private key setup
+3.  Responsive table
 
 Pending fixes:
-Jquery data table
-Api authentication
+
+1.  query data table
+2.  Api authentication
 
 To get stripe private key, signup at stripe.com
 
