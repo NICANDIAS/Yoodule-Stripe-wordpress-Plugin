@@ -15,7 +15,7 @@ Features:
 
 Pending fixes:
 
-1.  query data table
+1.  Jquery data table
 2.  Api authentication
 
 To get stripe private key, signup at stripe.com
