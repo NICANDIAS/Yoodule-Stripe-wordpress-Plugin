@@ -3,8 +3,9 @@ Description: A wordpress plugin for stripe
 Installation: Installl the zip file as you would normally install a new plugin
 
 Usage:
-a. From admin dashboard: setup api keys by selecting the yoodule - stripe option in the menu panel
-b. Rendering on front end using shortcode , use the [yoodule_stripe] shortcode on any page of choice
+
+1.  From admin dashboard: setup api keys by selecting the yoodule - stripe option in the menu panel
+2.  Rendering on front end using shortcode , use the [yoodule_stripe] shortcode on any page of choice
 
 Features:
 
